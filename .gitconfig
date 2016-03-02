@@ -1,0 +1,5 @@
+[user]
+    name = a-ray-of-sunshine
+    email = 884105526@qq.com
+[core]
+	excludesfile = /home/Administrator/.gitignore

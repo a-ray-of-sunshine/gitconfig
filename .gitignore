@@ -1,0 +1,6 @@
+# java ignore
+.settings/
+.classpath
+.mymetadata
+.project
+target/
