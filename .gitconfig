@@ -3,3 +3,7 @@
     email = 884105526@qq.com
 [core]
 	excludesfile = /home/Administrator/.gitignore
+    quotepath = false
+[i18n]
+    commitEncoing = utf-8
+    logOutputEncoding = utf-8
